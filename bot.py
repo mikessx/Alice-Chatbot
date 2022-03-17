@@ -52,8 +52,8 @@ async def on_message(message):
 #    if message.author == client.user:
 #        return
 #    if message.content.startswith(f"{prefix}aibot"):
-  #      response = chatbot.request(message.content[7:])
-    #    await message.channel.send(f"{message.author.mention} {response}")
+#        response = chatbot.request(message.content[7:])
+#        await message.channel.send(f"{message.author.mention} {response}")
 
 #keep_alive()
 print(" ")
