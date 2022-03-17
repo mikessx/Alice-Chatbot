@@ -22,6 +22,10 @@
     {"tag": "anime",
         "patterns": ["ti piacciono gli anime?", "qual'è il tuo anime preferito?"],
         "responses": ["oh si, adoro gli anime, il mio preferito penso sia SAO, ma solo la 1 e 3 serie", "diciamo che posso identificarmi come un weeb, ma non quelli tossici, e se vuoi saperlo il mio anime preferito e' SAO!"]
+    },
+    {"tag": "stato_animo",
+        "patterns": ["come stai?", "come va?", "tutto bene?"],
+        "responses": ["Si dai, niente male..", "diciamo di si!"]
     }
   ]
   }
