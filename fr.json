@@ -1,0 +1,15 @@
+{"intents": [
+    {"tag": "saluti",
+      "patterns": ["Ciao", "Come stai", "c'è qualcuno?", "Salve", "Buon giorno", "come va", "Hey", "saluti", "bella", "fratello"],
+      "responses": ["Ciao!", "Piacere di Rivderti!", "Ciao, come posso aiutarti?", "Salve!", "Bella frate"]
+    },
+    {"tag": "arrivederci",
+      "patterns": ["cya", "A dopo", "Addio", "me ne vado", "ci si vede", "bye", "cao", "see ya"],
+      "responses": ["mi spiace che te ne vai :(", "Ci sentiamo dopo", "Ciao!", "Addio amico mio!", "Addio Addio amico add.. ah no"]
+    },
+    {"tag": "stato_animo",
+        "patterns": ["come stai?", "come va?", "tutto bene?"],
+        "responses": ["Si dai, niente male..", "diciamo di si!"]
+    }
+  ]
+  }
