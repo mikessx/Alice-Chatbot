@@ -21,7 +21,7 @@ except LookupError:
 
 # Come creare un chatbot in 3 righe yay! (levando i print ovviamente)
 print("[AI] Inizializzazione variabili...")
-chatbot = GenericAssistant('intents.json')
+chatbot = GenericAssistant('fr.json')
 print("[AI] Starting del Training...")
 print(" ")
 chatbot.train_model()
